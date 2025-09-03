@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Govind Vihar Residential Scheme",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60",
+    "location": "Dampier Nagar, Mathura, UP",
+    "summary": "Residential plots available under the Govind Vihar scheme. Affordable pricing, clear titles, and easy access to main roads."
+  },
+  {
+    "id": 2,
+    "name": "Shastri Nagar Housing Scheme",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=60",
+    "location": "Shastri Nagar, Agra, UP",
+    "summary": "Premium housing plots designed for modern living with parks, schools, and hospitals nearby."
+  },
+  {
+    "id": 3,
+    "name": "Green Valley Residential Scheme",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=800&q=60",
+    "location": "Sector 12, Noida, UP",
+    "summary": "Environment-friendly residential plots with greenery and proper waste management facilities."
+  }
+]
